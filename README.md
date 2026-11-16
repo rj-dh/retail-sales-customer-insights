@@ -22,13 +22,12 @@ The goal is to practice practical Data Analytics skills, including data cleaning
 - **Source:** Kaggle
 - **Records analyzed:** 9,977
 - **Columns:** 13
-- **File:** `SampleSuperstore.csv`
 
-### Dataset Columns
+The dataset CSV is not included in this repository. Download the Sample Superstore dataset from Kaggle and place `SampleSuperstore.csv` inside the local `data/` folder before running the notebook.
 
-Ship Mode, Segment, Country, City, State, Postal Code, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit.
+The dataset contains information about shipping mode, customer segment, geographical location, product category, sales, quantity, discounts and profit.
 
-**Note:** This dataset does not contain Order Date, Order ID, or Customer ID.
+**Note:** This dataset does not contain Order Date, Order ID or Customer ID.
 
 ## Technologies Used
 
